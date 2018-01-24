@@ -1,3 +1,3 @@
-# swift-code-create
+# Swift Code Create
 
-A description of this package.
+The create command in the swift code cli
