@@ -29,6 +29,6 @@ public enum SwiftClassSuffix: String {
 
     case Object
 
-    case Protocol
+    case `Protocol`
 
 }

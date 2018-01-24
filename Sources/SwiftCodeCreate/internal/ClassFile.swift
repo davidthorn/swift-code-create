@@ -7,7 +7,7 @@
 
 import Foundation
 
-public class ClassFile {
+internal class ClassFile {
 
     internal var name: String
 

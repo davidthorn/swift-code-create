@@ -6,8 +6,8 @@
 //
 
 import XCTest
-@testable import swift_code_createTests
+@testable import SwiftCodeCreateTests
 
 XCTMain([
-    testCase(swift_code_createTests.allTests),
+    testCase(SwiftCodeCreateTests.allTests),
 ])
