@@ -5,7 +5,6 @@
 // Copyright @ 2017 David Thorn. All rights reserved
 //
 
-
 import Foundation
 
 public enum SwiftCodeCreateFileArguments: String {

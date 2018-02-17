@@ -10,15 +10,13 @@ import XCTest
 @testable import SwiftCodeCreate
 
 class SwiftCodeCreateTests: XCTestCase {
-    func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct
-        // results.
-        let suffix: SwiftClassSuffix = .Protocol  
+    
+    func testCreateFile() {
 
-        print(suffix.rawValue)
+        let fileName = "test.txt"
 
     }
+
 
 
     static var allTests = [
